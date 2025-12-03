@@ -1,0 +1,5 @@
+{
+  "name": "Cast Pokémon Deck",
+  "description": "A Farcaster-inspired collectible card generator and battler. Turn text casts into battle cards using Gemini AI, collect them, and battle against others.",
+  "requestFramePermissions": []
+}
